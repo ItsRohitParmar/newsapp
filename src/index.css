@@ -12,10 +12,9 @@ code {
     monospace;
 }
 
-/* 
-.popOut:hover{
-  box-shadow: 4px 4px grey;
-  height: 110%;
-  width: 110%;
-  z-index: 1;
+/* .cardPopOut{
+  margin: 0.5vmax;
+}
+.cardPopOut:hover{
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
 } */

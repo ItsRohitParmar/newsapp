@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* 
+.popOut:hover{
+  box-shadow: 4px 4px grey;
+  height: 110%;
+  width: 110%;
+  z-index: 1;
+} */

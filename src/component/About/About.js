@@ -12,7 +12,7 @@ const About = () => {
       </div>
       <div>
       <div className='projects'>
-        <h5>MERN Stack Project - Notebook</h5> <a target={"blank"} href="https://rohitsnotebook.netlify.app/"><button>View</button></a>
+        <h5>MERN Stack Project - Notebook</h5> <a target={"blank"} href="https://yournotesbook.netlify.app/"><button>View</button></a>
       </div>
 
       <div className='projects'>

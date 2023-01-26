@@ -1,32 +1,71 @@
 {
     "status": "ok",
-    "totalResults": 2,
+    "totalResults": 5,
     "articles": [
         {
             "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
+                "id": "cnn",
+                "name": "CNN"
             },
-            "author": null,
-            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-            "publishedAt": "2020-04-27T11:41:47Z",
-            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+            "author": "Ivana Kottasová, Yulia Kesaieva, Hannah Ritchie and Mariya Knight, CNN",
+            "title": "Russian forces claim to take control over Lysychansk, Ukraine's last holdout in Luhansk region - CNN",
+            "description": "Russia is claiming to have taken control of Lysychansk, the last city in the Luhansk region in eastern Ukraine that was still under Ukrainian control.",
+            "url": "https://www.cnn.com/2022/07/03/europe/russia-ukraine-luhansk-lysychansk-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220703070829-lysychansk-ukraine-220701-restricted-super-tease.jpg",
+            "publishedAt": "2022-07-03T11:21:00Z",
+            "content": null
         },
         {
             "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
+                "id": "usa-today",
+                "name": "USA Today"
             },
-            "author": null,
-            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-            "publishedAt": "2020-03-30T15:26:05Z",
-            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+            "author": "Josh Meyer and Ledyard King, USA TODAY",
+            "title": "Two former White House aides say top Secret Service official defending Trump on Jan. 6 has history of lying - USA TODAY",
+            "description": "Two Trump White House aides publicly question whether a top Secret Service official is lying to protect the former President",
+            "url": "https://www.usatoday.com/story/news/politics/2022/07/03/two-former-white-house-aides-say-top-secret-service-official-may-lying-protect-trump/7796127001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/06/28/USAT/b2846c94-7dc0-43a4-97c4-b5a0f92cd479-XXX_Jan._6_Hearing_6.28.2022_006.JPG?auto=webp&crop=3935,2213,x1,y306&format=pjpg&width=1200",
+            "publishedAt": "2022-07-03T10:00:22Z",
+            "content": "<ul><li>Former Trump aide Cassidy Hutchinson testified Trump tried to steer the limo to the Capitol Jan. 6.</li><li>Secret Service official Tony Ornato disputed her claim that Trump tried to grab the… [+9320 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Lawrence Richard",
+            "title": "Texas shooting: 2 dead, three police officers wounded near Fort Worth following shootout with suspect - Fox News",
+            "description": "Two civilians were killed and three police officers were injured during a shooting incident in Haltom City, Texas on Saturday night. The Haltom City Police Department said the officers and another civilian that was injured are expected to survive.",
+            "url": "https://www.foxnews.com/us/texas-shooting-dead-three-police-officers-wounded-fort-worth-shootout-suspect",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/07/Screenshot-2022-07-03-0323481.png",
+            "publishedAt": "2022-07-03T08:39:36Z",
+            "content": "Two people are dead and several others are injured, including three police officers following a shooting in Texas Saturday night, officials said.\r\nA suspected gunman killed two civilians and then him… [+3421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "Bam Margera Upset He Hasn't Heard from Son or Wife Since Rehab Return - TMZ",
+            "description": "Bam Margera is upset he hasn't heard from his son or estranged wife since going back to rehab.",
+            "url": "https://www.tmz.com/2022/07/03/bam-margera-upset-no-communication-wife-kid-since-back-rehab/",
+            "urlToImage": "https://imagez.tmz.com/image/2c/16by9/2022/07/01/2c24ba0b830b495997e8121bc7e8d6ad_xl.jpg",
+            "publishedAt": "2022-07-03T08:00:00Z",
+            "content": "Bam Margera's emotional split from his estranged wife lead to him fleeing rehab -- but since he's gone back, he hasn't heard a peep from her or their child ... so he's hired an attorney.\r\nSources clo… [+1671 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Danny Segura",
+            "title": "UFC 276: Alexander Volkanovski done with Hollway, wants second title - MMA Junkie",
+            "description": "UFC champ Alexander Volkanovski wants to move onto bigger things.",
+            "url": "https://mmajunkie.usatoday.com/2022/07/ufc-276-news-alexander-volkanovski-done-with-max-holloway-eyes-lightweight-title",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2022/07/alexnader-volkanovski-ufc-276-press-conference-2.jpg?w=1000&h=576&crop=1",
+            "publishedAt": "2022-07-03T07:48:00Z",
+            "content": "LAS VEGAS It seems the Alexander Volkanovski vs. Max Holloway rivalry has hit an end.\r\nThe UFC featherweight champion successfully defended his belt against Holloway and st the record against the Haw… [+1759 chars]"
         }
     ]
 }

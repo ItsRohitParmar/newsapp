@@ -1,14 +1,12 @@
-import React, { Component } from 'react'
-
-export default class NewsItem extends Component {
- 
-
-  render() {
-    let {title, description, imgUrl, newsUrl, author, date,source} = this.props;
-    console.log("making card");
+import React from 'react'
+import "./NewsCard.css"
+const NewsItem = (props)=>
+{
+    let {title, description, imgUrl, newsUrl, author, date,source} = props;
+    // console.log("making card");
     return (
       <div >
-        <div className="card">
+        <div className="card cardPopOut">
             <span className="badge rounded-pill bg-danger" style={{display:'flex', position: 'absolute',right: '0'}}>{source}</span>
           <img src={imgUrl} className="card-img-top" alt="..." />
           <div className="card-body">
@@ -20,5 +18,6 @@ export default class NewsItem extends Component {
         </div>
       </div>
     )
-  }
 }
+
+export default NewsItem
